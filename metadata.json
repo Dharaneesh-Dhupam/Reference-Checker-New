@@ -1,0 +1,5 @@
+{
+  "name": "RefCheck AI",
+  "description": "An intelligent academic reference verifier that checks the validity of your citations using Google Search and suggests real alternatives for hallucinations.",
+  "requestFramePermissions": []
+}
